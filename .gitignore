@@ -1,0 +1,12 @@
+.tmp
+.idea
+.DS_STORE
+.sass-cache
+.build
+*.log
+
+node_modules
+static
+template
+!source/static
+!source/template

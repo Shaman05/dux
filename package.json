@@ -1,0 +1,13 @@
+{
+  "name": "dux",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
